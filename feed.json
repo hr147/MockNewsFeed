@@ -1,0 +1,461 @@
+{
+  "apiVersion": "1.0",
+  "source": "candidate-home-challenge",
+  "title": "News Feed",
+  "generatedAt": "2026-05-13T20:45:00Z",
+  "items": [
+    {
+      "id": "h-1",
+      "type": "headline",
+      "kicker": "MEINUNG",
+      "text": "**Deutschland muss wieder leistungsfähig werden** – sonst verlieren wir alle",
+      "style": {
+        "font": "title2"
+      }
+    },
+    {
+      "id": "img-1",
+      "type": "image",
+      "url": "https://images.welt.de/67ed5daf7b6ccf58518a58b1/34945863a5c6e679e5cd95d2528bafad/ci23x11-w1080/blick-auf-sete-citades-view-of-sete-citades",
+      "caption": "Opener image, tappable to full screen"
+    },
+    {
+      "id": "h-2",
+      "type": "headline",
+      "kicker": "ZERSTÖRER VOR FEHMARN",
+      "text": "Putins Taktik greift – Russland setzt sich in der Ostsee durch",
+      "style": {
+        "font": "title3"
+      }
+    },
+    {
+      "id": "h-3",
+      "type": "headline",
+      "kicker": "WIRTSCHAFT",
+      "text": "Die deutsche Wirtschaft am Scheideweg",
+      "style": {
+        "font": "title3"
+      }
+    },
+    {
+      "id": "p-1",
+      "type": "paragraph",
+      "text": "**Hohe Energiepreise**, Bürokratie und Fachkräftemangel bremsen viele Unternehmen aus. Diese Aufgabe prüft, ob Rich Text und Markdown in SwiftUI sauber gerendert werden."
+    },
+    {
+      "id": "h-4",
+      "type": "headline",
+      "kicker": "POLITIK",
+      "text": "Koalitionsstreit spitzt sich weiter zu",
+      "style": {
+        "font": "headline"
+      }
+    },
+    {
+      "id": "p-2",
+      "type": "paragraph",
+      "text": "In der Ampel-Koalition wachsen die Differenzen. Mehrere Projekte stehen auf der Kippe. Unterstützt werden sollten **Dark Mode**, Dynamic Type und saubere Abstände."
+    },
+    {
+      "id": "h-5",
+      "type": "headline",
+      "kicker": "HINTERGRUND",
+      "text": "Inside Ukraine – Was im Westen über den Krieg oft übersehen wird",
+      "style": {
+        "font": "title3"
+      }
+    },
+    {
+      "id": "web-flourish-dynamic-height",
+      "type": "webEmbed",
+      "title": "Flourish interactive graphic",
+      "url": "https://static.up.welt.de/flourish-oembed-wrapper/wrapper-dynamic-height-only.html?x-welt-use-webview=true&url=https%3A%2F%2Fwww.welt.de%2Fig%2F44a61483-9efe-489b-8597-e2bcbfaabeb0%2Findex%2Findex.html"
+    },
+    {
+      "id": "teaser-a-1",
+      "type": "teaser",
+      "title": "Die überraschende Antwort auf die Frage, wohin die Merz-Wähler abgewandert sind",
+      "section": "UMFRAGEDATEN IM DETAIL",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 383,
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1080&q=80"
+    },
+    {
+      "id": "teaser-a-2",
+      "type": "teaser",
+      "title": "Alles wieder gut? Die brisanten Nebenwirkungen des neuen Heizungsgesetzes",
+      "section": "WÄRMEPUMPEN & CO",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 147,
+      "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1080&q=80"
+    },
+    {
+      "id": "teaser-a-3",
+      "type": "teaser",
+      "title": "Ein gefährlicher Dämpfer bei der historischen Wahl",
+      "section": "BADEN-WÜRTTEMBERG",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 131,
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1080&q=80"
+    },
+    {
+      "id": "teaser-a-4",
+      "type": "teaser",
+      "title": "VW, BMW & Co.: So hart trifft es die deutschen Autobauer",
+      "section": "AUTOBAUER",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 208,
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1080&q=80"
+    },
+    {
+      "id": "teaser-a-5",
+      "type": "teaser",
+      "title": "Wie KI den Arbeitsalltag in Redaktionen verändert",
+      "section": "TECHNOLOGIE",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 95,
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&q=80"
+    },
+    {
+      "id": "h-6",
+      "type": "headline",
+      "kicker": "TECHNOLOGIE",
+      "text": "KI verändert die Arbeitswelt – sind wir bereit?",
+      "style": {
+        "font": "headline"
+      }
+    },
+    {
+      "id": "h-7",
+      "type": "headline",
+      "kicker": "FINANZEN",
+      "text": "Geld anlegen 2026: Diese Strategien lohnen sich",
+      "style": {
+        "font": "title3"
+      }
+    },
+    {
+      "id": "web-paperboy-lifestyle",
+      "type": "webEmbed",
+      "title": "Lifestyle paperboy widget",
+      "url": "https://resources-production.la.welt.de/la-paperboy-widget/welt-lifestyleOhneAutoren-standalone.html"
+    },
+    {
+      "id": "teaser-b-1",
+      "type": "teaser",
+      "title": "ChatGPT & Co.: Was die neuen Tools wirklich können",
+      "section": "TECHNOLOGIE",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 95,
+      "imageUrl": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=1080&q=80"
+    },
+    {
+      "id": "teaser-b-2",
+      "type": "teaser",
+      "title": "Roboter in der Pflege: Helfer oder Bedrohung?",
+      "section": "TECHNOLOGIE",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 72,
+      "imageUrl": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?w=1080&q=80"
+    },
+    {
+      "id": "teaser-b-3",
+      "type": "teaser",
+      "title": "So schützen Sie Ihre Daten im Internet",
+      "section": "TECHNOLOGIE",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 110,
+      "imageUrl": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1080&q=80"
+    },
+    {
+      "id": "teaser-b-4",
+      "type": "teaser",
+      "title": "Quantencomputing: Der nächste große Technologiesprung",
+      "section": "TECHNOLOGIE",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 64,
+      "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1080&q=80"
+    },
+    {
+      "id": "teaser-b-5",
+      "type": "teaser",
+      "title": "Die Zukunft der Mobilität ist elektrisch",
+      "section": "TECHNOLOGIE",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 88,
+      "imageUrl": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1080&q=80"
+    },
+    {
+      "id": "h-8",
+      "type": "headline",
+      "kicker": "LEBEN",
+      "text": "Gesund durch den Sommer – Tipps vom Arzt",
+      "style": {
+        "font": "headline"
+      }
+    },
+    {
+      "id": "p-3",
+      "type": "paragraph",
+      "text": "Stärken Sie Ihr Immunsystem und bleiben Sie fit in der warmen Jahreszeit. Beispiel für **mehrzeiligen Markdown-Text** mit optionalen Links: [welt.de](https://www.welt.de)."
+    },
+    {
+      "id": "h-9",
+      "type": "headline",
+      "kicker": "POLITIK",
+      "text": "Wahlergebnisse interaktiv",
+      "style": {
+        "font": "headline"
+      }
+    },
+    {
+      "id": "web-election-results",
+      "type": "webEmbed",
+      "title": "Election results interactive",
+      "url": "https://static.up.welt.de/wahlen-dpa/2021/my_lw_bw/html/app/wahlkreis-ergebnisse.html?seasonArchive=s9999&maxage=60"
+    },
+    {
+      "id": "teaser-c-1",
+      "type": "teaser",
+      "title": "Europa im Wandel: Neue Mehrheiten in den Regionen",
+      "section": "UMFRAGEDATEN IM DETAIL",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 383,
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1080&q=80"
+    },
+    {
+      "id": "teaser-c-2",
+      "type": "teaser",
+      "title": "Fünf Erkenntnisse aus den neuesten Wahldaten",
+      "section": "WÄRMEPUMPEN & CO",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 147,
+      "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1080&q=80"
+    },
+    {
+      "id": "teaser-c-3",
+      "type": "teaser",
+      "title": "Warum die Prognosen diesmal danebenlagen",
+      "section": "BADEN-WÜRTTEMBERG",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 131,
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1080&q=80"
+    },
+    {
+      "id": "teaser-c-4",
+      "type": "teaser",
+      "title": "Kommunen unter Druck: Was jetzt auf sie zukommt",
+      "section": "AUTOBAUER",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 208,
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1080&q=80"
+    },
+    {
+      "id": "teaser-c-5",
+      "type": "teaser",
+      "title": "Der stille Faktor, der die Wahl entschied",
+      "section": "TECHNOLOGIE",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 95,
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&q=80"
+    },
+    {
+      "id": "h-10",
+      "type": "headline",
+      "kicker": "SPIELE",
+      "text": "Worldle als eingebettetes Web-Widget",
+      "style": {
+        "font": "headline"
+      }
+    },
+    {
+      "id": "web-worldle",
+      "type": "webEmbed",
+      "title": "Worldle game embed",
+      "url": "https://static.up.welt.de/wordle-wrapper/wrapper-wordle-free-standalone.html"
+    },
+    {
+      "id": "teaser-d-1",
+      "type": "teaser",
+      "title": "Das Spiel mit der Geografie: Warum Worldle süchtig macht",
+      "section": "TECHNOLOGIE",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 95,
+      "imageUrl": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=1080&q=80"
+    },
+    {
+      "id": "teaser-d-2",
+      "type": "teaser",
+      "title": "Quiz-Apps im Trend: Lernen zwischen zwei Meetings",
+      "section": "TECHNOLOGIE",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 72,
+      "imageUrl": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?w=1080&q=80"
+    },
+    {
+      "id": "teaser-d-3",
+      "type": "teaser",
+      "title": "So trainieren Rätsel-Formate unser Allgemeinwissen",
+      "section": "TECHNOLOGIE",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 110,
+      "imageUrl": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1080&q=80"
+    },
+    {
+      "id": "teaser-d-4",
+      "type": "teaser",
+      "title": "Daily Games im Newsfeed: Spielerei oder Mehrwert?",
+      "section": "TECHNOLOGIE",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 64,
+      "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1080&q=80"
+    },
+    {
+      "id": "teaser-d-5",
+      "type": "teaser",
+      "title": "Kleine Challenges, große Bindung: Die Psychologie dahinter",
+      "section": "TECHNOLOGIE",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 88,
+      "imageUrl": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1080&q=80"
+    },
+    {
+      "id": "h-11",
+      "type": "headline",
+      "kicker": "TECHNIK",
+      "text": "Warum interaktive Grafiken im Feed schwierig sind",
+      "style": {
+        "font": "headline"
+      }
+    },
+    {
+      "id": "p-4",
+      "type": "paragraph",
+      "text": "**WKWebView in einer LazyVStack** kann schnell teuer werden. Gute Lösungen vermeiden unnötige Reloads, cachen WebViews sinnvoll und aktualisieren die Höhe nach dem Laden."
+    },
+    {
+      "id": "h-12",
+      "type": "headline",
+      "kicker": "DATEN",
+      "text": "Weitere externe Grafik",
+      "style": {
+        "font": "headline"
+      }
+    },
+    {
+      "id": "web-external-graphic",
+      "type": "webEmbed",
+      "title": "External interactive graphic",
+      "url": "https://www.welt.de/ig/cf14a96a-3763-429f-af65-e287e4be8d6c/index/index.html"
+    },
+    {
+      "id": "teaser-e-1",
+      "type": "teaser",
+      "title": "Interaktive Grafiken: Was Nutzer wirklich anklicken",
+      "section": "UMFRAGEDATEN IM DETAIL",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 383,
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=1080&q=80"
+    },
+    {
+      "id": "teaser-e-2",
+      "type": "teaser",
+      "title": "Performance zuerst: Wie Visualisierungen schnell bleiben",
+      "section": "WÄRMEPUMPEN & CO",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 147,
+      "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1080&q=80"
+    },
+    {
+      "id": "teaser-e-3",
+      "type": "teaser",
+      "title": "Von Daten zu Story: So entsteht eine gute Grafik",
+      "section": "BADEN-WÜRTTEMBERG",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 131,
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1080&q=80"
+    },
+    {
+      "id": "teaser-e-4",
+      "type": "teaser",
+      "title": "Mobile first: Die größten UX-Fallen bei Embeds",
+      "section": "AUTOBAUER",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 208,
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1080&q=80"
+    },
+    {
+      "id": "teaser-e-5",
+      "type": "teaser",
+      "title": "Messbar besser: KPIs für interaktive Inhalte",
+      "section": "TECHNOLOGIE",
+      "summary": "Kurzbeschreibung des Artikels für den Feed. Kandidaten können Navigation, Layout und Bildladeverhalten demonstrieren.",
+      "author": "WELT Redaktion",
+      "publishedAt": "2026-05-13T08:00:00Z",
+      "comments": 95,
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1080&q=80"
+    },
+    {
+      "id": "h-13",
+      "type": "headline",
+      "kicker": "CHALLENGE",
+      "text": "Fazit für Kandidaten",
+      "style": {
+        "font": "headline"
+      }
+    },
+    {
+      "id": "p-5",
+      "type": "paragraph",
+      "text": "Der Fokus liegt auf **Server Driven UI**, testbarer Architektur, async/await, Fehlerbehandlung, Pull-to-refresh und sauberer Erweiterbarkeit für neue Widget-Typen."
+    }
+  ]
+}
